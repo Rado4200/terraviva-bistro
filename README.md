@@ -2,7 +2,7 @@
 
 A stunning, modern restaurant website featuring Mediterranean cuisine in Barcelona. Built with vanilla HTML, CSS, and JavaScript - fully responsive and multilingual.
 
-![TerraViva Bistro Website](./screenshots/web_en.png)
+![TerraViva Bistro Website](./screenshots/web_en.PNG)
 
 <p align="center">
   <a href="https://terraviva-bistro.vercel.app/">
